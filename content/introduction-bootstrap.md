@@ -22,7 +22,8 @@ Many of our components require the use of JavaScript to function. Specifically, 
 # Starter template
 Be sure to have your pages set up with the latest design and development standards. That means using an HTML5 doctype and including a viewport meta tag for proper responsive behaviors. Put it all together and your pages should look like this:
 
-```<!doctype html>
+```
+<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -48,4 +49,5 @@ Be sure to have your pages set up with the latest design and development standar
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
     -->
   </body>
-</html>```
+</html>
+```
