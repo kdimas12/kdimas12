@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+<div class="content">
+    {{ partial "date-and-tags.html" . }}
+    {{ .Content }}
+</div>
+{{ partial "footer.html" . }}
+{{ end }}

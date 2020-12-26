@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "sadim."
+
+theme = "exampleTheme"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+  homeText = "I just made a Hugo blog from scratch."
+
+[permalinks]
+  blog = "/:filename/"
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
