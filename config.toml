@@ -5,7 +5,7 @@ title = "sadim."
 theme = "exampleTheme"
 
 [params]
-  dateFormat = "Jan 2, 2006"
+  dateFormat = "Jan 2 2006"
   homeText = "I just made a Hugo blog from scratch."
 
 [permalinks]
