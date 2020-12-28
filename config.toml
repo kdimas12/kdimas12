@@ -20,8 +20,8 @@ theme = "exampleTheme"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Tentang"
-    url = "/tentang/"
+    name = "About"
+    url = "/about/"
     weight = 2
   [[menu.main]]
     name = "Tags"
