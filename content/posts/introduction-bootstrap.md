@@ -1,6 +1,7 @@
 ---
 title: "Introduction Bootstrap"
 date: 2020-12-26T14:45:20+07:00
+tags: ["poetry", "time"]
 draft: false
 ---
 

@@ -26,6 +26,14 @@ code {
 	margin-right: auto;
 }
 
+.date {
+	font-weight: bold;
+}
+
+.stylePost {
+	margin-bottom: 5px;
+}
+
 footer {
 	margin-top: 50px;
 	border-left: solid 2px gray;

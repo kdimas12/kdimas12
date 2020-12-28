@@ -9,7 +9,7 @@ theme = "exampleTheme"
   homeText = "I just made a Hugo blog from scratch."
 
 [permalinks]
-  blog = "/:filename/"
+  posts = "/:filename/"
 
 [taxonomies]
   tag = "tags"
@@ -19,3 +19,11 @@ theme = "exampleTheme"
     name = "Home"
     url = "/"
     weight = 1
+  [[menu.main]]
+    name = "Tentang"
+    url = "/tentang/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
