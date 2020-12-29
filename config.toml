@@ -1,6 +1,7 @@
 baseURL = "https://kdimas12.netlify.app/"
 languageCode = "en-us"
 title = "sadim."
+copyright = "{year}"
 
 theme = "exampleTheme"
 
